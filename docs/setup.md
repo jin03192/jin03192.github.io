@@ -89,13 +89,13 @@ translations:
     message: "I'm sorry. We couldn't find the page you are looking for."
     image_alt: "404 - Page not found"
   contact:
-    title: "Talk to me"
+    title: "문의하기"
     subject: "New contact!"
-    submit_btn: "Send"
+    submit_btn: "보내기"
     placeholders:
-      name: "Your name"
-      email: "Your e-mail"
-      message: "Your message"
+      name: "본인의 이름을 입력해주세요."
+      email: "본인의 이메일을 입력해주세요."
+      message: "메세지를 입력해주세요."
     errors:
       locale: "en"
       empty_name: "Name is required"
@@ -103,6 +103,6 @@ translations:
       invalid_email: "Email is invalid"
       empty_message: "Message is required"
     after_send:
-      title: "Message sent!"
-      message: "Thank you for sending me a message. I'm going to answer ASAP."
+      title: "메세지 전송 성공!!"
+      message: "감사합니다. 성공적으로 메일을 보냈습니다. 답변은 잠시만 기다려주세요."
 ```
