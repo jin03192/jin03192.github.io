@@ -1,0 +1,39 @@
+---
+date: 2023-10-11
+layout: post
+title: soup stock tokyo 후기
+subtitle: '일본 수프 전문점을 소개합니다.'
+description: >-
+  soup stock tokyo 후기 일본 수프 전문점을 소개합니다.
+image: >-
+  https://drive.google.com/uc?export=view&id=1MmPMssAvDi-XRMp-rXaQAs0oXFeGfhOS
+optimized_image: >-
+  https://drive.google.com/uc?export=view&id=1MmPMssAvDi-XRMp-rXaQAs0oXFeGfhOS
+category: life
+tags:
+  - 일본스프전문점
+  - 도쿄스프전문점
+  - 치바스프전문점
+  - 간단한일본삼계탕
+author: mranderson
+paginate: true
+---
+soup stock tokyo에 갔다 왔습니다.  
+메뉴에 보시는 것과 같이 여러 스프 종류가 있고 보통 스프2개 + 밥, 아니면 스프1개 + 카레1개 + 밥 이런 세트메뉴가  
+기본입니다.  
+
+## soup stock tokyo 스프 2개와 밥 세트
+<img src="https://drive.google.com/uc?export=view&id=1vCGb0MMbVjtnATgx9QC66O_HKSSQg9ze"  width="700" height="370" alt="soup stock tokyo">
+삼계탕과 일본 일반 스프 1100엔  
+삼계탕은 한국에서 먹던 맛이 있기는 한데,  
+닭고기가 많이 들어있지는 않았습니다.  
+한끼로는 충분한 양이라고는 생각하지만 가성비는 좋지 않을 수 있습니다.  
+대신, 밥을 가볍게 먹고 좋은 인테리어 안에서 공부하는 사람도 꽤 있었습니다.  
+
+## soup stock tokyo 스프 1개와 카레밥 세트
+<img src="https://drive.google.com/uc?export=view&id=1kWjExkgS_UpRi5c2rvYdLOaG7k2CecQz"  width="700" height="370" alt="soup stock tokyo">
+고기스프와 키마카레 세트 1200엔  
+밥 양은 고를 수 있습니다. 위에 사진은 보통 양 입니다.  
+맛있었고 고기도 부드러워서 좋았습니다.  
+카레와 스프 조합이 잘 맞는 것 같습니다.  
+일본은 카레 전문점이 아니라도 꽤 카레를 많이 파는 것 같습니다.  
